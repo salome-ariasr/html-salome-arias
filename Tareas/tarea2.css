@@ -1,0 +1,26 @@
+h1 {
+  text-shadow: 10px 10px blueviolet;
+}
+
+#juan {
+  background-color: yellow;
+}
+
+#arturo {
+  color: green;
+}
+
+#londo,
+#mari {
+  color: white;
+  background-color: black;
+}
+#isa,
+#vale {
+  color: blue;
+  text-transform: uppercase;
+}
+#majo {
+  font-size: 2cm;
+  text-shadow: 10px 10px pink;
+}
